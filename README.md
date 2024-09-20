@@ -69,3 +69,26 @@ i. **Linear Regression**:
 The importance of each feature is visualized using bar plots.
 
 
+# Insurance Charges Prediction
+
+This project predicts insurance charges based on various factors such as age, BMI, region, smoking habits, and more, using machine learning techniques like Linear Regression and Random Forest.
+
+## Requirements
+
+Ensure you have the following Python libraries installed:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+``bash
+git clone https://github.com/yourusername/insurance-charges-prediction.git
+
+
+``bash
+cd insurance-charges-prediction
+
+``bash
+python insurance_model.py
+
+
