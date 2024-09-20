@@ -43,7 +43,7 @@ We start with basic exploratory data analysis to understand the distribution and
 2. **Charges by Region, Smoking Status, and Other Factors**:
    - Bar plots, scatter plots, and violin plots are used to identify relationships between the charges and factors like smoking status, BMI, age, and children.
 
-   ![Sample Plot](path_to_image_if_any.png) <!-- You can add images or remove this line -->
+
 
 ## Model Building
 
