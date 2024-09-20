@@ -79,16 +79,16 @@ Ensure you have the following Python libraries installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
-
+```
+## Cloning
 ``bash
 git clone https://github.com/yourusername/insurance-charges-prediction.git
+```
 
-
-``bash
+```bash
 cd insurance-charges-prediction
-
-``bash
+```
+```bash
 python insurance_model.py
-
+```
 
